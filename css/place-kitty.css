@@ -38,7 +38,7 @@
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) input[type="text"]  */
 
-/*__write_selector_here__*/ {
+.wrapper[] {
   position: absolute;
   z-index: 3;
   top: 217px;
